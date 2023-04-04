@@ -2,8 +2,9 @@
 .config
 .idea
 .upm
-/venv
+.DS_Store
 .replit
+/venv
 poetry.lock
 pyproject.toml
 replit.nix
